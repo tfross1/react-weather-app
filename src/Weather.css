@@ -53,11 +53,11 @@
 }
 
 .Weather .btn-pink {
-	background-color: #c2175b;
+	background-color: pink;
 	color: white;
 }
 
 .Weather .highlight-pink {
 	outline: none;
-	box-shadow: 0 0 0 3px palevioletred;
+	box-shadow: 0 0 0 3px pink;
 }
